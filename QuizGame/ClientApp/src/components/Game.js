@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Questions } from './Questions';
 
 export class Game extends Component {
   static displayName = Game.name;
@@ -11,8 +12,11 @@ export class Game extends Component {
   }
 
   render() {
-    return (
-      <div>  Lets Play the Game  </div>
+      return (
+        <div>
+        <div>  Lets Play the Game  </div>
+              <Questions />
+        </div>
     );
   }
 
