@@ -1,0 +1,31 @@
+{
+  "round": 1,
+  "QuestionList": [
+    {
+      "Player": "Charlotte",
+      "Statement": "What's your favourite colour?",
+      "Answer": "Charlotte"
+    },
+    {
+      "Player": "Patrick",
+      "Statement": "What's your favourite colour?",
+      "Answer": "Patrick"
+    },
+    {
+      "Player": "Connor",
+      "Statement": "What's your favourite colour?",
+      "Answer": "Connor"
+    },
+    {
+      "Player": "Harry",
+      "Statement": "What's your favourite colour?",
+      "Answer": "Harry"
+    },
+    {
+      "Player": "Chloe",
+      "Statement": "What's your favourite colour?",
+      "Answer": "Chloe"
+    }
+
+  ]
+}
