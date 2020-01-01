@@ -8,7 +8,6 @@ export class Game extends Component {
         super(props);
         this.state = { questions: [], loading: true };
         this.s = 1;
-        console.log(this.s);
         this.handleClick = this.handleClick.bind(this);
     }
 
@@ -34,7 +33,6 @@ export class Game extends Component {
     }
 
     async handleClick() {
-        console.log(this)
         this.s = this.s + 1;
         this.populateQuestionsData(this.s);
     }
